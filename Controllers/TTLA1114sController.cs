@@ -13,6 +13,7 @@ namespace TranThiLanAnh114.Controllers
     public class TTLA1114sController : Controller
     {
         private readonly LanAnhDBContext _context;
+       private readonly StringProcessTTLA114 strInput =new StringProcessTTLA114();
 
         public TTLA1114sController(LanAnhDBContext context)
         {

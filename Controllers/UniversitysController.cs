@@ -13,6 +13,7 @@ namespace TranThiLanAnh114.Controllers
     public class UniversitysController : Controller
     {
         private readonly LanAnhDBContext _context;
+        
 
         public UniversitysController(LanAnhDBContext context)
         {

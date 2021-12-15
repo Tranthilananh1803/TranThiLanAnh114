@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace TranThiLanAnh114.Models
 {
     [Table ("TTLA1114s")]
-    public class TTLA1114
+    public class TTLA1114 : StringProcessTTLA114
     {
         [Key]
         [Display(Name = "Mã sinh viên")]
