@@ -170,3 +170,8 @@ C:\Project\TranThiLanAnh114\obj\Debug\net5.0\Razor\Views\Universitys\Delete.csht
 C:\Project\TranThiLanAnh114\obj\Debug\net5.0\Razor\Views\Universitys\Details.cshtml.g.cs
 C:\Project\TranThiLanAnh114\obj\Debug\net5.0\Razor\Views\Universitys\Edit.cshtml.g.cs
 C:\Project\TranThiLanAnh114\obj\Debug\net5.0\Razor\Views\Universitys\Index.cshtml.g.cs
+C:\Project\TranThiLanAnh114\obj\Debug\net5.0\Razor\Views\TTLA1114s\Create.cshtml.g.cs
+C:\Project\TranThiLanAnh114\obj\Debug\net5.0\Razor\Views\TTLA1114s\Delete.cshtml.g.cs
+C:\Project\TranThiLanAnh114\obj\Debug\net5.0\Razor\Views\TTLA1114s\Details.cshtml.g.cs
+C:\Project\TranThiLanAnh114\obj\Debug\net5.0\Razor\Views\TTLA1114s\Edit.cshtml.g.cs
+C:\Project\TranThiLanAnh114\obj\Debug\net5.0\Razor\Views\TTLA1114s\Index.cshtml.g.cs

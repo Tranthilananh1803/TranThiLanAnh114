@@ -15619,6 +15619,21 @@
   "RootNamespace": "TranThiLanAnh114",
   "Documents": [
     {
+      "FilePath": "c:\\Project\\TranThiLanAnh114\\Views\\TTLA1114s\\Details.cshtml",
+      "TargetPath": "Views\\TTLA1114s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\TranThiLanAnh114\\Views\\TTLA1114s\\Create.cshtml",
+      "TargetPath": "Views\\TTLA1114s\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\TranThiLanAnh114\\Views\\TTLA1114s\\Edit.cshtml",
+      "TargetPath": "Views\\TTLA1114s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Project\\TranThiLanAnh114\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15656,6 +15671,16 @@
     {
       "FilePath": "c:\\Project\\TranThiLanAnh114\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\TranThiLanAnh114\\Views\\TTLA1114s\\Index.cshtml",
+      "TargetPath": "Views\\TTLA1114s\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\TranThiLanAnh114\\Views\\TTLA1114s\\Delete.cshtml",
+      "TargetPath": "Views\\TTLA1114s\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {

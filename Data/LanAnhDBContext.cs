@@ -14,5 +14,7 @@ namespace TranThiLanAnh114.Data{
         }
 
         public DbSet<TranThiLanAnh114.Models.UniversityTTLA114> UniversityTTLA114 { get; set; }
+
+        public DbSet<TranThiLanAnh114.Models.TTLA1114> TTLA1114 { get; set; }
     }
 }
