@@ -8,7 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-
+using Microsoft.EntityFrameworkCore;
+using TranThiLanAnh114.Data;
 namespace TranThiLanAnh114
 {
     public class Startup
@@ -24,6 +25,9 @@ namespace TranThiLanAnh114
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<LanAnhDBContext>(options =>
+                    options.UseSqlite(Configuration.GetConnectionString("LanAnhDBContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
